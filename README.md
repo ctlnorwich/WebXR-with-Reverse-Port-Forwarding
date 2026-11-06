@@ -42,7 +42,7 @@ Launch your WebXR server ensuring the port it is hosted on matches that of the p
 
 <code>python3 -m http.server 8000</code>
 
->Side note: You can also run download and run the appropriate script [here]() to launch the server provided this is in the same directory as your WebXR files. These are simple scripts which will run the command shown above. 
+>Side note: You can also run download and run the appropriate script within this repo to launch the server provided this is in the same directory as your WebXR files. These are simple scripts which will run the command shown above. 
 
 **Enjoy your experience**
 Within your headset open your web browser (the CTL headsets will need to use Wolvic Browser) and navigate to localhost:8000 and enjoy your webXR experience!
