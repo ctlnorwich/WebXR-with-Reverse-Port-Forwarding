@@ -16,7 +16,7 @@ Port forwarding is a networking technique in which a device 'forwards' a network
 If you are familiar with developing for VR with Unity you should already have completed some of the steps below before.
 
 **Download and install Meta Quest Developer Hub (MQDH)**
-When using CTL laptops or PC's in SAG-04 this will already be installed however if you are using your own device head to: 
+When using CTL laptops or PC's across St Andrews this will already be installed however if you are using your own device head to: 
 [Windows](https://developers.meta.com/vr/downloads/package/oculus-developer-hub-win)
 [MacOS](https://developers.meta.com/vr/downloads/package/oculus-developer-hub-mac)
 
@@ -24,7 +24,7 @@ When using CTL laptops or PC's in SAG-04 this will already be installed however 
 Within the headset navigate to the settings window and look for 'Developer Options' ensure USB debugging is enabled -- This should be enabled by default on CTL headsets however do check!
 
 **Connect your headset**
-Open MQDH and with your headset **powered on** connect your headset via the USB-C port on the side of the headset - *you may need to unplug the extended battery to do so* - If prompted accept the connection on your computer. 
+Open MQDH and with your headset **powered on** connect your headset via the USB-C port on the side of the headset - *you will need to unplug the extended battery to do so* - If prompted accept the connection on your computer. 
 
 Within the headset you will need to accept the connection also and select 'Always allow for this device' when prompted to allow USB debugging with your computer.
 
